@@ -1,6 +1,6 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: CASA @ U of T
+  site: 'https://cogsci.ca'
   base: '/'
   trailingSlash: false
 
@@ -9,14 +9,15 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+    default: CASA @ U of T
+    template: '%s — CASA'
+  description: "🧠 Official website of the Cognitive Science and Artificial Intelligence Students' Association at the University of Toronto."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: CASA @ U of T
+    title: CASA @ U of T
     images:
       - url: '~/assets/images/default.png'
         width: 1200
