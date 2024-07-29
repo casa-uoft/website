@@ -24,6 +24,8 @@ Our team *(me)* has been hard at work designing a modern, responsive, and user-f
 
 🤖 **Office Hours Visual**: Check out the visual schedule for our office hours and connect with us whenever you need.
 
+
+
 Also, we have more exciting additions that are coming soon:
 
 ⏳ **Course & Stream Guides**: We are working on comprehensive guides to help you navigate the Cognitive Science program and choose the best courses and streams for your academic journey.
