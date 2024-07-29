@@ -1,26 +1,26 @@
-import { getPermalink, getBlogPermalink, getAsset } from './utils/permalinks';
+import { getPermalink, getBlogPermalink, getAsset, getHomePermalink } from './utils/permalinks';
 
 export const headerData = {
   links: [
     {
       text: 'Home',
-      href: '#',
+      href: getHomePermalink(),
     },
     {
       text: 'About',
-      href: '#',
+      href: getHomePermalink() + '#about',
     },
     {
       text: 'Constitution',
-      href: '#',
+      href: getPermalink('/constitution'),
     },
     {
       text: 'Office Hours',
       href: '#',
     },
     {
-      text: 'Posts',
-      href: '#',
+      text: 'Articles',
+      href: getBlogPermalink(),
     }
   ],
   actions: [{ text: 'Join Discord', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
@@ -31,10 +31,10 @@ export const footerData = {
     {
       title: 'Pages',
       links: [
-        { text: 'Home', href: '#' },
-        { text: 'Constitution', href: '#' },
+        { text: 'Home', href: getHomePermalink() },
+        { text: 'Constitution', href: getPermalink('/constitution') },
         { text: 'Office Hours', href: '#' },
-        { text: 'Posts', href: '#' },
+        { text: 'Articles', href: getBlogPermalink() },
       ],
     },
     {
