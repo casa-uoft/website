@@ -18,6 +18,10 @@ export const headerData = {
       text: 'Office Hours',
       href: '#',
     },
+    {
+      text: 'Updates',
+      href: '#',
+    }
   ],
   actions: [{ text: 'Join Discord', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
 };
