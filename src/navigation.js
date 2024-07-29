@@ -11,7 +11,7 @@ export const headerData = {
       href: '#',
     },
     {
-      text: 'Constitution',
+      text: 'Constitutions',
       href: '#',
     },
     {
