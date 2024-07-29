@@ -1,0 +1,43 @@
+---
+publishDate: 2024-08-01
+author: Dongwoo "Joy" Kim
+title: 🎉 Our Brand New Website is now Live!
+excerpt: We are proud to feature our brand new website to our community! Read more to find out what we have to offer in our new website.
+image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+category: Announcements
+tags:
+  - Website
+metadata:
+  canonical: https://astrowind.vercel.app/our-brand-new-website-is-now-live
+---
+Hello CASA Members and the University of Toronto Community,
+
+I’m **Joy Kim**, your Technology Director for the **2023-2024** school year, and I am thrilled to announce the launch of our brand new CASA website!
+
+Our team*(me)* has been hard at work designing a modern, responsive, and user-friendly platform that caters to all your Cognitive Science and Artificial Intelligence needs. Here are what are available to you now:
+
+🤖 **Fresh and Modern Design**: Navigate through our sleek, intuitive interface that adapts seamlessly to any device.
+
+🤖 **Announcements & Updates**: Stay informed with the latest news, events, and updates from CASA. Never miss out on important information again!
+
+🤖 **Full Access to Our Constitution**: Easily find and read the CASA constitution to understand our framework, roles, and your rights as a member.
+
+🤖 **Office Hours Visual**: Check out the visual schedule for our office hours and connect with us whenever you need.
+
+🤖 **Course & Stream Guides**: Access comprehensive guides to help you navigate the Cognitive Science program and choose the best courses and streams for your academic journey.
+
+Also, we have more exciting additions that are coming soon:
+
+⏳ **Upcoming Merch Shop**: Our merch shop will open soon! Stay tuned for exciting CASA merchandise that you can proudly wear.
+
+⏳ **Community Resources**: We are also working on providing a variety of resources for our community, which will be available on the website shortly.
+
+Visit our website at [**insert website URL**] and explore all the new features. We’re excited to continue supporting our vibrant community with this enhanced digital experience.
+
+Your feedback is invaluable to us, so feel free to reach out with any comments or suggestions. Together, let’s make this academic year the best one yet!
+
+Warm regards,
+
+Dongwoo **"Joy"** Kim
+*Technology Director, Cognitive Science and Artificial Intelligence Students' Association*  
+*2023-2024*
