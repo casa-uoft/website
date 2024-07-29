@@ -12,7 +12,7 @@ metadata:
 ---
 Hello CASA Members and the University of Toronto Community,
 
-I’m **Joy Kim**, your Technology Director for the **2023-2024** school year, and I am thrilled to announce the launch of our brand new CASA website!
+I’m **Joy Kim**, your Technology Director for the **2024-2025** school year, and I am thrilled to announce the launch of our brand new CASA website!
 
 Our team *(me)* has been hard at work designing a modern, responsive, and user-friendly platform that caters to all we have to offer for you. Here are what are available to you now:
 
@@ -41,4 +41,4 @@ Warm regards,
 Dongwoo **"Joy"** Kim\
 *Technology Director*\
 *Cognitive Science and Artificial Intelligence Students' Association*
-*2023-2024*
+*2024-2025*
