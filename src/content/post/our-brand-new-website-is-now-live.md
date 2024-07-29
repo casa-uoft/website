@@ -39,6 +39,6 @@ Your feedback is invaluable to us, so feel free to reach out with any comments o
 Warm regards,
 
 Dongwoo **"Joy"** Kim
-
-*Technology Director, Cognitive Science and Artificial Intelligence Students' Association*  
+*Technology Director*
+*Cognitive Science and Artificial Intelligence Students' Association*  
 *2023-2024*
