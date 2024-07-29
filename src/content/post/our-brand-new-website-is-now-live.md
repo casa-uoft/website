@@ -22,7 +22,7 @@ Our team *(me)* has been hard at work designing a modern, responsive, and user-f
 
 🤖 **Full Access to Our Constitution**: Easily find and read the CASA constitution to understand our framework, roles, and your rights as a member.
 
-🤖 **Office Hours Visual**: Check out the visual schedule for our office hours and connect with us whenever you need.\
+🤖 **Office Hours Visual**: Check out the visual schedule for our office hours and connect with us whenever you need.
 
 Also, we have more exciting additions that are coming soon:
 
@@ -32,7 +32,7 @@ Also, we have more exciting additions that are coming soon:
 
 ⏳ **Community Resources**: Variety of cognitive science resources for our community is getting ready, which will be available on the website shortly.
 
-Visit our website at https://cogsci.ca and explore all the new features. We’re excited to continue supporting our vibrant community with this enhanced digital experience.
+Visit our website at <https://cogsci.ca> and explore all the new features. We’re excited to continue supporting our vibrant community with this enhanced digital experience.
 
 Your feedback is invaluable to us, so feel free to reach out with any comments or suggestions. Together, let’s make this academic year the best one yet!
 
