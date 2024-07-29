@@ -1,9 +1,9 @@
 ---
-publishDate: 2024-08-01
+publishDate: 2024-08-03
 author: Dongwoo "Joy" Kim
 title: 🎉 Our Brand New Website is Now Live!
 excerpt: We are proud to feature our brand new website to our community! Read more to find out what we have to offer in our new website.
-image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+image: https://images.unsplash.com/photo-1597733336794-12d05021d510?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 category: Announcements
 tags:
   - Website
