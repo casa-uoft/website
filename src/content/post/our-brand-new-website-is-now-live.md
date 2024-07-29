@@ -22,8 +22,7 @@ Our team *(me)* has been hard at work designing a modern, responsive, and user-f
 
 🤖 **Full Access to Our Constitution**: Easily find and read the CASA constitution to understand our framework, roles, and your rights as a member.
 
-🤖 **Office Hours Visual**: Check out the visual schedule for our office hours and connect with us whenever you need.
-\
+🤖 **Office Hours Visual**: Check out the visual schedule for our office hours and connect with us whenever you need.\
 
 Also, we have more exciting additions that are coming soon:
 
