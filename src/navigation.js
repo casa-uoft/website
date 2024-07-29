@@ -19,7 +19,7 @@ export const headerData = {
       href: '#',
     },
     {
-      text: 'Updates',
+      text: 'Posts',
       href: '#',
     }
   ],
@@ -29,15 +29,12 @@ export const headerData = {
 export const footerData = {
   links: [
     {
-      title: 'Product',
+      title: 'Pages',
       links: [
-        { text: 'Features', href: '#' },
-        { text: 'Security', href: '#' },
-        { text: 'Team', href: '#' },
-        { text: 'Enterprise', href: '#' },
-        { text: 'Customer stories', href: '#' },
-        { text: 'Pricing', href: '#' },
-        { text: 'Resources', href: '#' },
+        { text: 'Home', href: '#' },
+        { text: 'Constitution', href: '#' },
+        { text: 'Office Hours', href: '#' },
+        { text: 'Posts', href: '#' },
       ],
     },
     {
