@@ -15,7 +15,7 @@ export const headerData = {
       href: '#',
     },
     {
-      text: 'Office Hours', // a non-breaking space
+      text: 'Office-Hours', // a non-breaking space
       href: '#',
     },
     {
