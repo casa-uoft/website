@@ -32,7 +32,7 @@ Also, we have more exciting additions that are coming soon:
 
 ⏳ **Community Resources**: Variety of cognitive science resources for our community is getting ready, which will be available on the website shortly.
 
-Visit our website at [**insert website URL**] and explore all the new features. We’re excited to continue supporting our vibrant community with this enhanced digital experience.
+Visit our website at [https://cogsci.ca] and explore all the new features. We’re excited to continue supporting our vibrant community with this enhanced digital experience.
 
 Your feedback is invaluable to us, so feel free to reach out with any comments or suggestions. Together, let’s make this academic year the best one yet!
 
