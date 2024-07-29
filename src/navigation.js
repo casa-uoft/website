@@ -16,14 +16,14 @@ export const headerData = {
     },
     {
       text: 'Office Hours',
-      href: '#',
+      href: getPermalink('/office-hours'),
     },
     {
       text: 'Articles',
       href: getBlogPermalink(),
     }
   ],
-  actions: [{ text: 'Join Discord', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
+  actions: [{ text: 'Join Discord', href: 'https://tinyurl.com/casa-discord', target: '_blank' }],
 };
 
 export const footerData = {
@@ -33,7 +33,7 @@ export const footerData = {
       links: [
         { text: 'Home', href: getHomePermalink() },
         { text: 'Constitution', href: getPermalink('/constitution') },
-        { text: 'Office Hours', href: '#' },
+        { text: 'Office Hours', href: getPermalink('/office-hours') },
         { text: 'Articles', href: getBlogPermalink() },
       ],
     },
