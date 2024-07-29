@@ -24,7 +24,8 @@ Our team *(me)* has been hard at work designing a modern, responsive, and user-f
 
 🤖 **Office Hours Visual**: Check out the visual schedule for our office hours and connect with us whenever you need.
 
-
+\
+\
 
 Also, we have more exciting additions that are coming soon:
 
