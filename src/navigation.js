@@ -11,11 +11,11 @@ export const headerData = {
       href: '#',
     },
     {
-      text: 'Constitutions',
+      text: 'Constitution',
       href: '#',
     },
     {
-      text: 'Office Hours',
+      text: 'Office⠀Hours',
       href: '#',
     },
     {
