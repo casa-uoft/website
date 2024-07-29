@@ -15,7 +15,7 @@ export const headerData = {
       href: '#',
     },
     {
-      text: 'Office⠀Hours',
+      text: 'Office&nbsp;Hours',
       href: '#',
     },
     {
