@@ -99,7 +99,7 @@ const metadata = {
     title="Frequently Asked Questions"
     subtitle="Dive into the following questions to gain insights into the powerful features that AstroWind offers and how it can elevate your web development journey."
     tagline="FAQs"
-    classes={{ container: 'max-w-6xl bg-[rgb(0,120,148)] bg-opacity-5 dark:bg-transparent' }}
+    classes={{ container: 'max-w-6xl' }}
     items={[
       {
         title: 'What is CASA?',
@@ -132,7 +132,11 @@ const metadata = {
           "You can reach us through by following our Instagram <a href=\"https://instagram.com/casa.uoft\">@casa.uoft</a>, join our <a href=\"https://tinyurl.com/casa-discord\">Discord server</a>, or email us at <a href=\"mailto:casa.uoft@gmail.com\">casa.uoft@gmail.com</a>.",
       },
     ]}
-  />
+  >
+    <Fragment slot="bg">
+      <div class="absolute inset-0 bg-[rgb(0,120,148)] bg-opacity-5 dark:bg-transparent"></div>
+    </Fragment>
+  </FAQs>
 
   <!-- CallToAction Widget *********** -->
 
