@@ -8,7 +8,9 @@ module.exports = {
       colors: {
         primary: 'var(--aw-color-primary)',
         secondary: 'var(--aw-color-secondary)',
-        accent: 'var(--aw-color-accent)',
+        'accent-purple': 'var(--aw-color-accent-purple)',
+        'accent-red': 'var(--aw-color-accent-red)',
+        'accent-blue': 'var(--aw-color-accent-blue)',
         default: 'var(--aw-color-text-default)',
         muted: 'var(--aw-color-text-muted)',
       },
