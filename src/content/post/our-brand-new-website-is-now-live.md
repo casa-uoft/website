@@ -1,5 +1,5 @@
 ---
-publishDate: 2024-08-03
+publishDate: 2024-07-30
 author: Dongwoo "Joy" Kim
 title: 🎉 Our Brand New Website is Now Live!
 excerpt: We are proud to feature our brand new website to our community! Read more to find out what we have to offer in our new website.
@@ -7,8 +7,8 @@ image: https://images.unsplash.com/photo-1597733336794-12d05021d510?q=80&w=2574&
 category: Announcements
 tags:
   - Website
-metadata:
-  canonical: https://astrowind.vercel.app/articles/our-brand-new-website-is-now-live
+# metadata:
+#   canonical: https://cogsci.ca/articles/our-brand-new-website-is-now-live
 ---
 Hello CASA Members and the University of Toronto Community,
 
