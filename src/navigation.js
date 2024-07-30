@@ -32,41 +32,32 @@ export const footerData = {
       title: 'Pages',
       links: [
         { text: 'Home', href: getHomePermalink() },
+        { text: 'Articles', href: getBlogPermalink() },
         { text: 'Constitution', href: getPermalink('/constitution') },
         { text: 'Office Hours', href: getPermalink('/office-hours') },
-        { text: 'Articles', href: getBlogPermalink() },
       ],
     },
     {
-      title: 'Platform',
+      title: 'Articles',
       links: [
-        { text: 'Developer API', href: '#' },
-        { text: 'Partners', href: '#' },
-        { text: 'Atom', href: '#' },
-        { text: 'Electron', href: '#' },
-        { text: 'AstroWind Desktop', href: '#' },
+        { text: 'Announcements', href: getPermalink('announcements', 'category') },
       ],
     },
     {
-      title: 'Support',
+      title: 'External Resources',
       links: [
-        { text: 'Docs', href: '#' },
-        { text: 'Community Forum', href: '#' },
-        { text: 'Professional Services', href: '#' },
-        { text: 'Skills', href: '#' },
-        { text: 'Status', href: '#' },
+        { text: 'Dr. John Vervaeke YouTube', href: 'https://www.youtube.com/@johnvervaeke' },
+        { text: 'UC Academic Calendar', href: 'https://artsci.calendar.utoronto.ca/section/University-College' },
+        { text: 'UC Cognitive Science', href: 'https://www.uc.utoronto.ca/cognitive-science' },
+        { text: 'United Cognitive Science Association', href: 'https://wicsc.ca/cognitive-science-associations/' },
       ],
     },
     {
-      title: 'Company',
+      title: 'CASA',
       links: [
-        { text: 'About', href: '#' },
-        { text: 'Blog', href: '#' },
-        { text: 'Careers', href: '#' },
-        { text: 'Press', href: '#' },
-        { text: 'Inclusion', href: '#' },
-        { text: 'Social Impact', href: '#' },
-        { text: 'Shop', href: '#' },
+        { text: '15 King\'s College Circle', },
+        { text: 'University College F301', },
+        { text: 'Toronto, ON M5S 3H7', },
       ],
     },
   ],
@@ -75,14 +66,13 @@ export const footerData = {
     { text: 'Privacy Policy', href: getPermalink('/privacy') },
   ],
   socialLinks: [
-    { ariaLabel: 'X', icon: 'tabler:brand-x', href: '#' },
-    { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: '#' },
-    { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: '#' },
+    { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: 'https://www.facebook.com/groups/uoftcasa/' },
+    { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: 'https://www.instagram.com/casa.uoft/' },
+    { ariaLabel: 'Discord', icon: 'tabler:brand-discord', href: 'https://tinyurl.com/casa-discord' },
     { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
-    { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
   ],
   footNote: `
     <img class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 rtl:mr-0 rtl:ml-1.5 float-left rtl:float-right rounded-sm" src="https://onwidget.com/favicon/favicon-32x32.png" alt="onWidget logo" loading="lazy"></img>
-    Made by <a class="text-blue-600 underline dark:text-muted" href="https://onwidget.com/"> onWidget</a> · All rights reserved.
+    © 2024 Cognitive Science and Artificial Intelligence Students' Association · All rights reserved.
   `,
 };
