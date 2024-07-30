@@ -18,10 +18,10 @@ export const headerData = {
       text: 'Constitution',
       href: getPermalink('/constitution'),
     },
-    {
-      text: 'Office Hours',
-      href: getPermalink('/office-hours'),
-    },
+    // {
+    //   text: 'Office Hours',
+    //   href: getPermalink('/office-hours'),
+    // },
   ],
   actions: [{ text: 'Join Discord', href: 'https://tinyurl.com/casa-discord', target: '_blank' }],
 };
