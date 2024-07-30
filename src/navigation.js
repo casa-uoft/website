@@ -11,6 +11,10 @@ export const headerData = {
       href: getHomePermalink() + '#about',
     },
     {
+      text: 'Articles',
+      href: getBlogPermalink(),
+    },
+    {
       text: 'Constitution',
       href: getPermalink('/constitution'),
     },
@@ -18,10 +22,6 @@ export const headerData = {
       text: 'Office Hours',
       href: getPermalink('/office-hours'),
     },
-    {
-      text: 'Articles',
-      href: getBlogPermalink(),
-    }
   ],
   actions: [{ text: 'Join Discord', href: 'https://tinyurl.com/casa-discord', target: '_blank' }],
 };
