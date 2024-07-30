@@ -55,9 +55,7 @@ export const footerData = {
     {
       title: 'CASA',
       links: [
-        { text: '15 King\'s College Circle', },
-        { text: 'University College F301', },
-        { text: 'Toronto, ON M5S 3H7', },
+        { text: '15 King\'s College Circle\nUniversity College F301\nToronto, ON M5S 3H7', href: 'https://maps.app.goo.gl/9QRABTiaiBR5kdcg6' },
       ],
     },
   ],

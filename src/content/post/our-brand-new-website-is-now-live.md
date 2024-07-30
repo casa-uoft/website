@@ -8,13 +8,13 @@ category: Announcements
 tags:
   - Website
 metadata:
-  canonical: https://astrowind.vercel.app/our-brand-new-website-is-now-live
+  canonical: https://astrowind.vercel.app/articles/our-brand-new-website-is-now-live
 ---
 Hello CASA Members and the University of Toronto Community,
 
 I’m **Joy Kim**, your Technology Director for the **2024-2025** school year, and I am thrilled to announce the launch of our brand new CASA website!
 
-Our team *(me)* has been hard at work designing a modern, responsive, and user-friendly platform that caters to all we have to offer for you. Here are what are available to you now:
+Hard effort was put in to designing a modern, responsive, and user-friendly platform that caters to all we have to offer for you. Here are what are available to you now:
 
 🤖 **Fresh and Modern Design**: Navigate through our sleek, intuitive interface that adapts seamlessly to any device.
 
