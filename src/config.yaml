@@ -11,7 +11,7 @@ metadata:
   title:
     default: CASA @ U of T
     template: '%s — CASA'
-  description: "🧠 Official website of the Cognitive Science and Artificial Intelligence Students' Association at the University of Toronto."
+  description: "🧠 Official website of the Cognitive Science and Artificial Intelligence Student Association at the University of Toronto."
   robots:
     index: true
     follow: true
