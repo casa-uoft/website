@@ -40,6 +40,7 @@ export const footerData = {
     {
       title: 'Articles',
       links: [
+        { text: 'All Articles', href: getBlogPermalink() },
         { text: 'Announcements', href: getPermalink('announcements', 'category') },
       ],
     },
