@@ -34,7 +34,7 @@ export const footerData = {
         { text: 'Home', href: getHomePermalink() },
         { text: 'Articles', href: getBlogPermalink() },
         { text: 'Constitution', href: getPermalink('/constitution') },
-        { text: 'Office Hours', href: getPermalink('/office-hours') },
+        // { text: 'Office Hours', href: getPermalink('/office-hours') },
       ],
     },
     {
