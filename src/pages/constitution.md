@@ -2,10 +2,11 @@
 publishDate: 2024-03-25
 title: CASA Constitution 2024-2025
 category: Constitution
+layout: '~/layouts/MarkdownLayout.astro'
 tags:
   - Constitution
 metadata:
-  canonical: https://astrowind.vercel.app/articles/constitution
+  canonical: https://astrowind.vercel.app/constitution
 ---
 
 ## Table of Contents
