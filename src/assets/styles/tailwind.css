@@ -44,7 +44,7 @@
 }
 .dark #header.scroll > div:first-child,
 #header.scroll.dark > div:first-child {
-  @apply bg-page md:bg-[#030621e6] border-b border-gray-500/20;
+  @apply bg-page md:bg-[#1e3765] border-b border-[#d0d1c9];
   box-shadow: none;
 }
 /* #header.scroll > div:last-child {
