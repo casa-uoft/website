@@ -1,5 +1,5 @@
 ---
-publishDate: 2024-07-30
+publishDate: 2024-08-30
 author: Dongwoo "Joy" Kim
 title: 🎉 Our Brand New Website is Now Live!
 excerpt: We are proud to feature our brand new website to our community! Read more to find out what we have to offer in our new website.
@@ -22,15 +22,15 @@ Hard effort was put in to designing this modern, responsive, and user-friendly p
 
 🤖 **Full Access to Our Constitution**: Easily find and read the CASA constitution to understand our framework, roles, and your rights as a member.
 
-🤖 **Office Hours Visual**: Check out the visual schedule for our office hours and connect with us whenever you need.
-
 Also, we have more exciting additions that are coming soon:
+
+⏳ **Community Resources**: Variety of cognitive science resources for our community is getting ready, which will be available on the website shortly.
 
 ⏳ **Course & Stream Guides**: We are working on comprehensive guides to help you navigate the Cognitive Science program and choose the best courses and streams for your academic journey.
 
 ⏳ **Merchandise Shop**: Merchandise shop is part of our plan for our new website. Stay tuned for exciting cognitive science merchandise that you can proudly wear.
 
-⏳ **Community Resources**: Variety of cognitive science resources for our community is getting ready, which will be available on the website shortly.
+⏳ **Office Hours Visual**: Check out the visual schedule for our office hours and connect with us whenever you need.
 
 Visit our website at <https://cogsci.ca> and explore all the new features. We’re excited to continue supporting our vibrant community with this enhanced digital experience.
 
