@@ -47,7 +47,7 @@ export const footerData = {
     {
       title: 'External Resources',
       links: [
-        { text: 'Dr. John Vervaeke YouTube', href: 'https://www.youtube.com/@johnvervaeke', target: '_blank' },
+        // { text: 'Dr. John Vervaeke YouTube', href: 'https://www.youtube.com/@johnvervaeke', target: '_blank' },
         { text: 'UC Academic Calendar', href: 'https://artsci.calendar.utoronto.ca/section/University-College', target: '_blank' },
         { text: 'UC Cognitive Science', href: 'https://www.uc.utoronto.ca/cognitive-science', target: '_blank' },
         { text: 'United Cognitive Science Association', href: 'https://wicsc.ca/cognitive-science-associations/', target: '_blank' },
