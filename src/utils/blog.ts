@@ -170,7 +170,22 @@ export const findLatestPosts = async ({ count }: { count?: number }): Promise<Ar
   const _count = count || 4;
   const posts = await fetchPosts();
 
-  return posts ? posts.slice(0, _count) : [];
+  // Exclude posts with "Executives" category
+  const filteredPosts = posts.filter((post) => post.category?.slug !== 'executives');
+
+  return filteredPosts ? filteredPosts.slice(0, _count) : [];
+};
+
+
+/** */
+export const findExecutivePosts = async ({ count }: { count?: number }): Promise<Array<Post>> => {
+  const _count = count || 4;
+  const posts = await fetchPosts();
+
+  // Filter posts by "Executives" category
+  const executivePosts = posts.filter((post) => post.category?.slug === 'executives');
+
+  return executivePosts ? executivePosts.slice(0, _count) : [];
 };
 
 /** */
