@@ -7,7 +7,7 @@ import Headline from '~/components/blog/Headline.astro';
 import Pagination from '~/components/blog/Pagination.astro';
 // import PostTags from "~/components/blog/Tags.astro";
 
-import { blogListRobots, getStaticPathsBlogList } from '~/utils/blog';
+import { blogListRobots, getStaticPathsBlogList, findLatestPosts, fetchPosts } from '~/utils/blog';
 
 export const prerender = true;
 
@@ -19,6 +19,8 @@ type Props = InferGetStaticPropsType<typeof getStaticPaths>;
 
 const { page } = Astro.props as Props;
 const currentPage = page.currentPage ?? 1;
+const allPosts = await fetchPosts();
+const latestPosts = await findLatestPosts({count: allPosts.length});
 
 // const allCategories = await findCategories();
 // const allTags = await findTags();
@@ -41,7 +43,7 @@ const metadata = {
       title="Articles"
       subtitle="Stay up-to-date with the latest news, updates, and announcements from the CASA team."
     />
-    <BlogList posts={page.data} />
+    <BlogList posts={latestPosts} />
     <Pagination prevUrl={page.url.prev} nextUrl={page.url.next} />
     <!--
       <PostTags tags={allCategories} class="mb-2" title="Search by Categories:" isCategory />
