@@ -16,6 +16,10 @@ const generatePermalink = async ({
   publishDate: Date;
   category: string | undefined;
 }) => {
+  if (category == "Executives") {
+    return ``;
+  }
+
   const year = String(publishDate.getFullYear()).padStart(4, '0');
   const month = String(publishDate.getMonth() + 1).padStart(2, '0');
   const day = String(publishDate.getDate()).padStart(2, '0');
