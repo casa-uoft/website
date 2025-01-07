@@ -1,7 +1,7 @@
 ---
 import { APP_BLOG } from 'astrowind:config';
 
-import Grid from '~/components/blog/Grid.astro';
+import TeamGrid from '~/components/blog/TeamGrid.astro';
 
 import { getBlogPermalink } from '~/utils/permalinks';
 import { findExecutivePosts, findLatestPosts } from '~/utils/blog';
@@ -49,7 +49,7 @@ const posts = APP_BLOG.isEnabled ? await findExecutivePosts({ count }) : [];
         {information && <p class="text-muted dark:text-slate-400 lg:text-sm lg:max-w-md" set:html={information} />}
       </div>
 
-      <Grid posts={posts} />
+      <TeamGrid posts={posts} />
     </WidgetWrapper>
   ) : (
     <Fragment />
