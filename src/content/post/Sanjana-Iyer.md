@@ -2,7 +2,7 @@
 publishDate: 1970-01-23
 author: CASA
 title: Sanjana Iyer
-excerpt: Technology Director
+excerpt: COG250 Representative
 image: ~/assets/images/SanjanaIyer.jpg
 category: Executives
 tags:
