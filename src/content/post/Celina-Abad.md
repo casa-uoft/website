@@ -3,7 +3,7 @@ publishDate: 1970-01-27
 author: CASA
 title: Celina Abad
 excerpt: Communications & Branding Director
-image: ~/assets/images/AnaMatei.jpg
+image: ~/assets/images/CelinaAbad.jpg
 category: Executives
 tags:
   - Executive
