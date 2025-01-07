@@ -1,9 +1,9 @@
 ---
-publishDate: 1970-01-30
+publishDate: 1970-01-25
 author: CASA
-title: Xi (Joy) Wang
-excerpt: Vice President
-image: ~/assets/images/JoyW.jpg
+title: Ana Matei
+excerpt: Conference Coordinator
+image: ~/assets/images/AnaMatei.jpg
 category: Executives
 tags:
   - Executive
