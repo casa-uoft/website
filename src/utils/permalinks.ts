@@ -94,6 +94,9 @@ export const getHomePermalink = (): string => getPermalink('/');
 export const getBlogPermalink = (): string => getPermalink(BLOG_BASE);
 
 /** */
+export const getExecsPermalink = (): string => getPermalink(CATEGORY_EXECUTIVES);
+
+/** */
 export const getAsset = (path: string): string =>
   '/' +
   [BASE_PATHNAME, path]
