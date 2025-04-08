@@ -1,12 +1,12 @@
 ---
-publishDate: 2024-01-29
+publishDate: 2023-01-25
 author: CASA
-title: Vivian Liang
-excerpt: Treasurer
-image: ~/assets/images/VivianLiang.jpg
+title: Max Lees
+excerpt: Conference Coordinator
+image: ~/assets/images/AnaMatei.jpg
 category: Executives
 tags:
-  - current
+  - 2023-2024
 # metadata:
 #   canonical: https://cogsci.ca/articles/our-brand-new-website-is-now-live
 ---
