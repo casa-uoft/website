@@ -1,5 +1,5 @@
 ---
-publishDate: 2024-01-28
+publishDate: 2024-05-01 00:00:05
 author: CASA
 title: Dominic Le
 excerpt: Secretary
@@ -7,6 +7,4 @@ image: ~/assets/images/DominicLe.jpg
 category: Executives
 tags:
   - current
-# metadata:
-#   canonical: https://cogsci.ca/articles/our-brand-new-website-is-now-live
 ---
