@@ -193,6 +193,21 @@ export const findExecutivePosts = async ({ count }: { count?: number }): Promise
 };
 
 /** */
+export const findCurrentExecutivePosts = async ({ count }: { count?: number }): Promise<Array<Post>> => {
+  const _count = count || 4;
+  const posts = await fetchPosts();
+
+  // Filter posts by "Executives" category and "current" tag
+  const executiveCurrentPosts = posts.filter(
+    (post) =>
+      post.category?.slug === 'executives' &&
+      post.tags?.some((tag) => tag.slug === 'current')
+  );
+
+  return executiveCurrentPosts ? executiveCurrentPosts.slice(0, _count) : [];
+};
+
+/** */
 export const getStaticPathsBlogList = async ({ paginate }: { paginate: PaginateFunction }) => {
   if (!isBlogEnabled || !isBlogListRouteEnabled) return [];
   return paginate(await fetchPosts(), {

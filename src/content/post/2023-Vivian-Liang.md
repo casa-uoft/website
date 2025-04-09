@@ -1,12 +1,10 @@
 ---
-publishDate: 1970-01-29
+publishDate: 2023-05-01 00:00:06
 author: CASA
 title: Vivian Liang
 excerpt: Treasurer
 image: ~/assets/images/VivianLiang.jpg
 category: Executives
 tags:
-  - Executive
-# metadata:
-#   canonical: https://cogsci.ca/articles/our-brand-new-website-is-now-live
+  - 2023-2024
 ---

@@ -3,8 +3,8 @@ import { APP_BLOG } from 'astrowind:config';
 
 import TeamGrid from '~/components/blog/TeamGrid.astro';
 
-import { getBlogPermalink } from '~/utils/permalinks';
-import { findExecutivePosts, findLatestPosts } from '~/utils/blog';
+import { getExecsPermalink } from '~/utils/permalinks';
+import { findCurrentExecutivePosts, findExecutivePosts, findLatestPosts } from '~/utils/blog';
 import WidgetWrapper from '~/components/ui/WidgetWrapper.astro';
 import type { Widget } from '~/types';
 import Button from '../ui/Button.astro';
@@ -19,8 +19,8 @@ export interface Props extends Widget {
 
 const {
   title = await Astro.slots.render('title'),
-  // linkText = 'View all posts',
-  // linkUrl = getBlogPermalink(),
+  linkText = 'View previous members',
+  linkUrl = getExecsPermalink(),
   information = await Astro.slots.render('information'),
   count = 9,
 
@@ -30,7 +30,7 @@ const {
   bg = await Astro.slots.render('bg'),
 } = Astro.props;
 
-const posts = APP_BLOG.isEnabled ? await findExecutivePosts({ count }) : [];
+const posts = APP_BLOG.isEnabled ? await findCurrentExecutivePosts({ count }) : [];
 ---
 
 {
@@ -43,6 +43,12 @@ const posts = APP_BLOG.isEnabled ? await findExecutivePosts({ count }) : [];
               class="text-3xl text-primary dark:text-white font-bold tracking-tight sm:text-4xl sm:leading-none group font-heading mb-2"
               set:html={title}
             />
+            {APP_BLOG.list.isEnabled && linkText && linkUrl && (
+              <Button variant="link" href={linkUrl}>
+                {' '}
+                {linkText} »
+              </Button>
+            )}
           </div>
         )}
 

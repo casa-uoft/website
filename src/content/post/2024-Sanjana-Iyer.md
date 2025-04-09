@@ -1,12 +1,12 @@
 ---
-publishDate: 1970-01-30
+publishDate: 2024-05-01 00:00:00
 author: CASA
-title: Xi (Joy) Wang
-excerpt: Vice President
-image: ~/assets/images/JoyW.jpg
+title: Sanjana Iyer
+excerpt: COG250 Representative
+image: ~/assets/images/SanjanaIyer.jpg
 category: Executives
 tags:
-  - Executive
+  - current
 # metadata:
 #   canonical: https://cogsci.ca/articles/our-brand-new-website-is-now-live
 ---
